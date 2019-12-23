@@ -1,0 +1,16 @@
+SOLID
+-----
+SRP - Principio da Responsabilidade Unica
+	  Uma classe deve ter um e apenas um motivo para ser alterado, não deve ações que não sejam pertinentes e/ou de responsabilidade da mesma.
+OCP - Principio de Aberto e Fechado
+      Uma classe deve ser fechada para alteração mas extensivel para implementações, com métodos abstratos por exemplo.
+LSP - Principio de Substituição de Liskovi
+      Uma classe base deve ser capaz de ser substituida pela sua classe derivada/filha.
+ISP - Principio de Segregação de interface
+      As classes não devem ser forçadas a depender de métodos que não usa, o correto é criar/segregar interfaces com contratos especificos.
+DIP - Principio da Inversão de Dependência
+      Módulos de alto nivel não deve depender de módulos de baixo nivel e ambos deles devem depender de abstrações.
+	  As abstrações não devem depender de detalhes, mas detalhes devem depender de abstrações.
+      Devemos depender de abstrações e não de implementações.
+   
+

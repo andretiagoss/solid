@@ -1,0 +1,21 @@
+E:\_ANYBAL\_SchoolOfNet\C#_SOLID\SOLID-master\SOLID-master\EP.SOLID\bin\Debug\EP.SOLID.exe
+E:\_ANYBAL\_SchoolOfNet\C#_SOLID\SOLID-master\SOLID-master\EP.SOLID\bin\Debug\EP.SOLID.pdb
+E:\_ANYBAL\_SchoolOfNet\C#_SOLID\SOLID-master\SOLID-master\EP.SOLID\obj\Debug\CSharpOO.SOLID.csprojResolveAssemblyReference.cache
+E:\_ANYBAL\_SchoolOfNet\C#_SOLID\SOLID-master\SOLID-master\EP.SOLID\obj\Debug\EP.SOLID.exe
+E:\_ANYBAL\_SchoolOfNet\C#_SOLID\SOLID-master\SOLID-master\EP.SOLID\obj\Debug\EP.SOLID.pdb
+E:\_ANYBAL\_SchoolOfNet\C#_SOLID\SOLID-master\SOLID-master\CSharpOO.SOLID\obj\Debug\CSharpOO.SOLID.csprojResolveAssemblyReference.cache
+E:\_ANYBAL\_SchoolOfNet\C#_SOLID\SOLID-master\SOLID-master\CSharpOO.SOLID\obj\Debug\EP.SOLID.exe
+E:\_ANYBAL\_SchoolOfNet\C#_SOLID\SOLID-master\SOLID-master\CSharpOO.SOLID\obj\Debug\EP.SOLID.pdb
+E:\_ANYBAL\_SchoolOfNet\C#_SOLID\SOLID-master\SOLID-master\CSharpOO.SOLID\bin\Debug\EP.SOLID.exe
+E:\_ANYBAL\_SchoolOfNet\C#_SOLID\SOLID-master\SOLID-master\CSharpOO.SOLID\bin\Debug\EP.SOLID.pdb
+E:\_ANYBAL\_PROJETOS\_GIT\TESTE\CSharpOO.SOLID\bin\Debug\CSharpOO.SOLID.exe
+E:\_ANYBAL\_PROJETOS\_GIT\TESTE\CSharpOO.SOLID\bin\Debug\CSharpOO.SOLID.pdb
+E:\_ANYBAL\_PROJETOS\_GIT\TESTE\CSharpOO.SOLID\obj\Debug\CSharpOO.SOLID.csprojResolveAssemblyReference.cache
+E:\_ANYBAL\_PROJETOS\_GIT\TESTE\CSharpOO.SOLID\obj\Debug\CSharpOO.SOLID.exe
+E:\_ANYBAL\_PROJETOS\_GIT\TESTE\CSharpOO.SOLID\obj\Debug\CSharpOO.SOLID.pdb
+C:\Users\andre\Documents\Projetos de Programação\csharp-solid-master\CSharpOO.SOLID\bin\Debug\CSharpOO.SOLID.exe
+C:\Users\andre\Documents\Projetos de Programação\csharp-solid-master\CSharpOO.SOLID\bin\Debug\CSharpOO.SOLID.pdb
+C:\Users\andre\Documents\Projetos de Programação\csharp-solid-master\CSharpOO.SOLID\obj\Debug\CSharpOO.SOLID.csprojAssemblyReference.cache
+C:\Users\andre\Documents\Projetos de Programação\csharp-solid-master\CSharpOO.SOLID\obj\Debug\CSharpOO.SOLID.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Projetos de Programação\csharp-solid-master\CSharpOO.SOLID\obj\Debug\CSharpOO.SOLID.exe
+C:\Users\andre\Documents\Projetos de Programação\csharp-solid-master\CSharpOO.SOLID\obj\Debug\CSharpOO.SOLID.pdb
